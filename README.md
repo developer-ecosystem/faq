@@ -8,7 +8,7 @@ Here is a list of Frequently Asked Questions from the [Developer-Ecosystem Disco
 
 ***
 
-### 1) How do I mute the Developer-Ecosystem Server?
+### i) How do I mute the Developer-Ecosystem Server?
 
 **Answer 1 - Mobile App**
 
