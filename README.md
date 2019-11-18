@@ -4,7 +4,9 @@ Here is a list of Frequently Asked Questions from the [Developer-Ecosystem Disco
 
 ## Table of Contents
 
-- How do I mute the Developer-Ecosystem Server?
+- 1) [How do I mute the Developer-Ecosystem Server?](#1-how-do-i-mute-the-developer-ecosystem-server)
+
+***
 
 ### 1) How do I mute the Developer-Ecosystem Server?
 
