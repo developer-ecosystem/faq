@@ -3,6 +3,7 @@
 Here is a list of Frequently Asked Questions from the [Developer-Ecosystem Discord Server](https://discord.gg/H5ETM7C)
 
 ## Table of Contents
+
 - How do I mute the Developer-Ecosystem Server?
 
 ### 1) How do I mute the Developer-Ecosystem Server?
