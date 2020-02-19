@@ -5,6 +5,7 @@ Here is a list of Frequently Asked Questions from the [Developer-Ecosystem Disco
 ## Table of Contents
 
 - 1) [How do I mute the Developer-Ecosystem Server?](#1-how-do-i-mute-the-developer-ecosystem-server)
+- 2) [What do all the roles mean?](#2-server-roles)
 
 ***
 
@@ -31,3 +32,9 @@ Your selected server has been muted!
 5) Select "Done"
 
 Your selected server has been muted!
+
+***
+### ii) Server Roles
+
+TBD
+
